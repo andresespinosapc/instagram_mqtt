@@ -20,9 +20,9 @@
  * EXPECTED:
  *       throw new IOException("No message encoder");
  *
- * CURRENT: v123.0.0.21.114 @ x86
+ * CURRENT: v169.1.0.29.135 @ x86
  */
-const MESSAGE_ENCODER_SEND = 'X.02w';
+const MESSAGE_ENCODER_SEND = 'X.0eC';
 
 
 
